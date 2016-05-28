@@ -1,0 +1,14 @@
+item.JCC.name=JarvisConnectionChip
+item.V1AP.name=V1ArmouredPlate
+tile.PallOre.name=PalladiumOre
+item.Pall.name=Palladium
+item.RawPall.name=RawPalladium
+tile.PlatOre.name=PlatinumOre
+tile.VibOre.name=VibraniumOre
+itemGroup.BlockTab=IMUR's Block Tab
+itemGroup.ItemsTab=IMUR's Item Tab
+itemGroup.ArmourTab=IMUR's Armour Tab
+item.VeroHelmet.name=Veronica Helmet
+item.VeroChassis.name=Veronica Chassis
+item.VeroLegs.name=Veronica Legs
+item.VeroBoots.name=Veronica Boots
